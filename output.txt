@@ -1,0 +1,384 @@
+Antarcticonf The Conference At The Edge Of The World, 05 Jan, 2020, San Antonio, , Chile, Paid.
+https://antarcticonf.com/
+
+Trion All India Bootcamp, 19 Jan, 2020, Delhi, Delhi, India, Paid.
+https://konfhub.com/trionbootcamp
+
+DELIVERY CONF, 21 Jan, 2020, Seattle, Washington, USA, Paid.
+https://deliveryconf.busyconf.com/bookings/new
+
+AppSec California, 21 Jan, 2020, Santa Monica, California, USA, Paid.
+https://2020.appseccalifornia.org/
+
+NDC Security 2020, 22 Jan, 2020, Oslo, , Norway, Paid.
+https://ndc-security.com/
+
+Machine Learning Developers, 22 Jan, 2020, Bangalore, Karnataka, India, Paid.
+https://www.mlds.analyticsindiasummit.com/get-the-tickets/
+
+NDC London 2020, 27 Jan, 2020, London, , England, Paid.
+https://ndc-london.com/
+
+Distributed Systems Conference, 01 Feb, 2020, Pune, Maharastra, India, Paid.
+https://www.townscript.com/e/distributed-systems-conference-2020-323131/booking
+
+Data Business Congress 2020, 03 Feb, 2020, San Jose, CA, USA, Paid.
+https://web.cvent.com/event/10240ffb-fa61-43b2-9038-73c9838049ae/register
+
+Microsoft Lgnite The Tour Washington, 06 Feb, 2020, Washington, , US, Paid.
+https://register.msignite-the-tour.microsoft.com/washington-dc/auth/access
+
+Alexa Community Day Bengaluru 2020, 08 Feb, 2020, Bangalore, Karnataka, India, Paid.
+https://konfhub.com/alexablr
+
+ANNUAL INTERNATIONAL CONFERENCE On Data Science Machine Learning Blockchain Technology, 12 Feb, 2020, Mysore, Karnataka, India, Paid.
+https://aicdmb.co.in/registration.html
+
+HR Tech, 15 Feb, 2020, Mumbai, Maharashtra, India, Paid.
+https://www.worldhrdcongress.com/HRD/hrtech/Mumbai/mumbai-index.html
+
+Data Science Salon, 18 Feb, 2020, Austin, TX, USA, Paid.
+https://www.datascience.salon/tickets/
+
+PHP UK Conference 2020, 19 Feb, 2020, London, , England, Paid.
+https://www.papercall.io/phpuk2020
+
+GraphQL Asia 2020, 20 Feb, 2020, Bengaluru, Karnataka, India, Paid.
+https://graphql.asia/
+
+DevOpsCon London 2020, 22 Feb, 2020, London, , UK, Paid.
+https://devopscon.io/london/
+
+Software Architecture Conference, 25 Feb, 2020, New York, NY, USA, Paid.
+https://conferences.oreilly.com/software-architecture/sa-ny/public/register
+
+PGConf India 2020, 26 Feb, 2020, Bangalore, Karnataka, India, Paid.
+https://pgconf.in/conferences/pgconfin2020
+
+QCon London, 02 Mar, 2020, London, London, UK, Paid.
+https://qconlondon.com/registration-v2
+
+GOTO Oslo 2020, 03 Mar, 2020, oslo, , norway, Paid.
+https://goto-oslo.com/2020/registrations
+
+Devopsdays NYC 2020, 03 Mar, 2020, New York, New York, USA, Paid.
+https://www.papercall.io/dodnyc2020
+
+ScaleConf, 05 Mar, 2020, Cape Town, , South Africa, Paid.
+https://scaleconf.org/
+
+Namma Cloud Conference, 06 Mar, 2020, Bangalore, Karnataka, India, Paid.
+https://konfhub.com/ncc/index.html
+
+JavaScript Fwdays, 14 Mar, 2020, Kyiv, , Ukraine, Paid.
+https://fwdays.com/en/event/js-fwdays-2020
+
+Agile India 2020, 15 Mar, 2020, Bangalore, Karnataka, India, Paid.
+https://confengine.com/agile-india-2020/register/selection
+
+DevOps Talks Conference Melbourne, 18 Mar, 2020, Melbourne, , Australia, Paid.
+https://devops.talksplus.com/au/devops.html
+
+Devops Pro Europe 2020, 24 Mar, 2020, Vilnius, , Lithuania, Paid.
+https://devopspro.lt/tickets/
+
+Dev Next, 24 Mar, 2020, Broomfield, Colorado, USA, Paid.
+https://www.devdotnext.com/
+
+Scale Summit, 27 Mar, 2020, London, , UK, Paid.
+https://www.eventbrite.co.uk/e/scale-summit-2020-tickets-74972142697
+
+Kubecon Cloudnative Europe, 30 Mar, 2020, Amsterdam, , Netherlands, Paid.
+https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/
+
+WORLD'S ORIGINAL ANGULAR CONFERENCE, 01 Apr, 2020, Salt Lake City, Utah, USA, Paid.
+https://www.ng-conf.org/
+
+DevOn Summit, 02 Apr, 2020, Utrecht, , netherlands, Paid.
+https://www.devon.nl/en/subscribe/?evt=229&dt=1153
+
+DevOpsDays Toronto 2020, 16 Apr, 2020, Toronto, ON, Canada, Paid.
+https://devopsdays.org/events/2020-toronto/welcome/
+
+NDC Porto 2020, 21 Apr, 2020, Porto, , Portugal, Paid.
+https://ndcporto.com/
+
+DEVOPS 2020, 21 Apr, 2020, Helsinki, Helsinki, Finland, Paid.
+https://devops2020.com/
+
+React Day, 25 Apr, 2020, Bangalore, , India, Paid.
+https://reactday.in/tickets
+
+Red Hat Summit 2020, 27 Apr, 2020, San Francisco, CA, USA, Paid.
+https://www.redhat.com/en/summit
+
+DevOps Conference, 29 Apr, 2020, Moscow, , Russia, Paid.
+https://devoops-moscow.ru/en/
+
+AWS Community Day, 29 Apr, 2020, Ahmedabad, Gujarat, India, Paid.
+https://awsahmedabad.community/
+
+MongoDB World 2020, 04 May, 2020, New York, NY, USA, Paid.
+https://www.eventbrite.com/e/mongodb-world-2020-tickets-63496684292
+
+Devopsdays Austin, 04 May, 2020, Austin, Texas, US, Paid.
+https://devopsdays.org/events/2020-austin/welcome/
+
+ABOVE CLOUDS 2020, 09 May, 2020, Zagreb, , CROATIA, Paid.
+https://www.abovecloudsconf.com/
+
+IcingaConf2020, 23 June, 2020, Amsterdam, , Netherlands, Paid.
+https://icingaconf.com/
+
+Ingram Micro Cloud Summit 2020 Cloud Summit, 12 May, 2020, Miami Beach, Florida, USA, Paid.
+https://cloudsummit.ingrammicrocloud.com/
+
+Continuos Life Cycle London 2020, 13 May, 2020, London, , UK, Paid.
+https://continuouslifecycle.london/#tile_registration
+
+J On The Beach, 13 May, 2020, Málaga, , Spain, Paid.
+https://www.jonthebeach.com/tickets
+
+IT Security Summit 2020, 18 May, 2020, Munich, Bavaria, Germany, Paid.
+https://it-security-summit.de/
+
+DevSecCon, 27 May, 2020, Boston, , USA, Paid.
+https://www.eventbrite.com/e/devseccon-boston-2020-tickets-74368118043
+
+Newcrafts, 28 May, 2020, Paris, , France, Paid.
+http://register.ncrafts.io/
+
+Agile Portugal, 31 May, 2020, Porto, , Portugal, Paid.
+https://agilept.org
+
+ChefConf 2020, 01 Jun, 2020, Seattle, WA, USA, Paid.
+https://chefconf.io/
+
+Agile Devops West A Techwell Event, 07 Jun, 2020, Las Vegas, , USA, Paid.
+https://agiledevopswest.techwell.com/pricing-packages
+
+Portland 2020, 08 Jun, 2020, Oregon City, OR, USA, Paid.
+http://monitorama.com/2020/pdx.html
+
+Craft Conference, 09 Jun, 2020, Budapest, , Hungary, Paid.
+https://craft-conf.com/
+
+FlOW, 10 Jun, 2020, Utrecht, , Netherlands, Paid.
+https://srvision.nl/en/join-us
+
+QCon, 15 Jun, 2020, New York, , US, Paid.
+https://qconnewyork.com/registration-v2
+
+DockerCon, 15 Jun, 2020, Austin, Texas, US, Paid.
+https://www.docker.com/dockercon/
+
+Internet Of Things Conference 2020, 17 Jun, 2020, Munich, Bavaria, Germany, Paid.
+https://iotcon.de/de/
+
+Machine Learning Conference, 17 Jun, 2020, Munich, Bavaria, Germany, Paid.
+https://mlconference.ai/
+
+Bareos, 19 Jun, 2020, Berlin, , Germany, Paid.
+https://opensourcecamp.de/tickets/
+
+DevOps Enterprise Summit, 23 Jun, 2020, London, , UK, Paid.
+https://events.itrevolution.com/
+
+DevOps India Summit, 10 Jul, 2020, Bengaluru, Karnataka, India, Paid.
+https://devopsindiasummit.com/
+
+MongoDB Local Houston 2019, 20 Aug, 2020, Houston, , Texas, Paid.
+https://www.eventbrite.com/e/mongodblocal-houston-2019-tickets-64189746259
+
+IoTShow.in, 13 Feb, 2020, Bangalore, karnataka, India, Paid.
+https://konfhub.com/iotshow2020
+
+Machine Learning Developers, 30 Jan, 2020, Hyderabad, Telangana, India, Paid.
+https://www.mlds.analyticsindiasummit.com/get-the-tickets/
+
+Title of conf, 07 May, 2020, Detroit, Michigan, USA, Paid.
+https://www.titleofconf.org/
+
+self.conference, 08 May, 2020, Detroit, Michigan, USA, Paid.
+https://selfconference.org/
+
+Open UP Global Summit 2020, 12 Sept, 2020, Taipei, , Taiwan, Paid.
+https://www.wetogether.co/events/10038
+
+Car Summit, 07 April, 2020, San Jose, California, USA, Paid.
+https://www.voiceofthecar.com/
+
+Conversational Interaction Conference, 10 February, 2020, San Jose, California, USA, Paid.
+https://www.conversationalinteraction.com/
+
+Speech Tek, 27 April, 2020, Washington D.C., Washington D.C., USA, Paid.
+https://www.speechtek.com/2019/default.aspx
+
+One Voice Conference, 07 May, 2020, London, London, United Kingdom, Paid.
+https://www.onevoiceconference.com/
+
+Voice of Healthcare Summit, 05 August, 2020, Boston, Massachusetts, USA, Paid.
+https://www.vohsummit.com/
+
+Frontend Developer Love, 05 August, 2020, Amsterdam, , Netherlands, Paid.
+https://frontenddeveloperlove.com/
+
+JSConf Mexico, 04 May, 2020, Mexico city, , Mexico, Paid.
+https://jsconf.mx/
+
+Smart Commerce 2020, 29 January, 2020, kattilahalli, , Helsinki, Paid.
+https://www.smartcommercenordic.com/
+
+Business of BOTS, 05 February, 2020, San francisco, California, USA, Paid.
+https://businessofbots.com/
+
+Byteconf GraphQL 2020, 31 January, 2020, , , , Paid.
+https://www.bytesized.xyz/graphql-2020
+
+The Global Women in Data Science Hyderabad, 15 February, 2020, Hyderabad, Telangana, India, Paid.
+http://widshyderabad2019.com/register.html
+
+collision, 22 June, 2020, Toronto, Ontario, Canada, Paid.
+https://collisionconf.com/tickets
+
+ng-India, 29 February, 2020, Delhi, Delhi, India, Paid.
+https://www.ng-ind.com/
+
+Serverless Architecture Conference, 20 April, 2020, The Hague, The Hague, Netherlands, Paid.
+https://serverless-architecture.io/tickets/?go=ok
+
+Voxxed Days Singapore 2020, 05 June, 2020, , , Singapore, Paid.
+https://voxxeddays.com/singapore/
+
+SuperBot 2020, 31 March, 2020, San Francisco, California, USA, Paid.
+https://www.dashbot.io/superbot/sb2020/register
+
+DSConf 2020, 01 Feb, 2020, Pune, Maharashtra, India, Paid.
+https://dsconf.in/
+
+Doppa 2020, 27 June, 2020, Bangalore, Karnataka, India, Paid.
+https://doppa2020.devopsppalliance.org/registration/
+
+Google Cloud Next, 06 April, 2020, San francisco, California, USA, Paid.
+https://cloud.withgoogle.com/next/sf/
+
+AWS Summit Mumbai, 08 April, 2020, Mumbai, Maharashtra, India, Paid.
+https://pages.awscloud.com/summit-mumbai-2020.html
+
+IUI 2020, 17 March, 2020, Cagliari, Metropolitan City of Cagliari, Italy, Paid.
+http://iui.acm.org/2020/registration.html
+
+Security Architecture Conference, 21 February, 2020, Bangalore, Karnataka, India, Paid.
+https://www.sacon.io/
+
+HashiConf US, 13 October, 2020, San Diego, California, USA, Paid.
+https://hashiconf.com/us/tickets/
+
+HashiConf EU, 08 June, 2020, Amsterdam, North Holland, Netherlands, Paid.
+https://hashiconf.com/eu/tickets/
+
+HashiDays, 06 April, 2020, Sydney NSW, New South Wales, Australia, Paid.
+https://hashidays.com/tickets/
+
+Scrum Day Chennai, 25 July, 2020, Chennai, Tamil Nadu, India, Paid.
+http://www.scrumdaychennai.com/
+
+JuliaCon 2020, 27 July, 2020, Lisbon, , Portugal, Paid.
+https://juliacon.org/2020/tickets/
+
+REFACTOR 2020: Serverless, 22 May, 2020, Toronto, Ontario, Canada, Paid.
+https://attendify.co/refactor-serverless-LWBaWzW
+
+GraphQL Summit, 27 October, 2020, San Francisco, California, USA, Paid.
+https://summit.graphql.com/#tickets
+
+React Day Norway, 26 June, 2020, Larvik, , Norway, Paid.
+https://www.eventbrite.com/e/react-day-norway-2020-tickets-71334165409
+
+Cloud Native Security Day, 30 March, 2020, Amsterdam, , The Netherlands, Paid.
+https://events.linuxfoundation.org/cloud-native-security-day/register/
+
+AWS Innovate Online Conference, 19 Feb, 2020, , , , Free.
+https://aws.amazon.com/events/aws-innovate/machine-learning/
+
+Redis Day Bangalore, 21 Jan, 2020, Bangalore, Karnataka, India, Free.
+https://connect.redislabs.com/redisdaybangalore
+
+WineWorks, 22 Jan, 2020, San Francisco, California, USA, Free.
+https://www.papercall.io/osqueryatscale-cfp
+
+AWS Community Day, 31 Jan, 2020, Stockholm, Stockholm, Swedan, Free.
+https://awscommunitynordics.org/communityday/
+
+International Conference On Internet Of Things Big Data Analytics And Information Technology, 01 Feb, 2020, Chennai, Tamil Nadu, India, Free.
+https://www.allconferencealert.com/event-detail.html?ev_id=357894&eventname=international-conference-on-internet-of-things-big-data-analytics-and-information-technology(icitbdit--2020)
+
+International Conference On Big Data IoT Cyber Security And Information Technology, 02 Feb, 2020, New Delhi, New Delhi, India, Free.
+https://www.allconferencealert.com/event-detail.html?ev_id=353891&eventname=international-conference-on-big-data-iot-cyber-security-and-information-technology-(icbdicsit)
+
+ChiBrrCon 2020, 04 Feb, 2020, Chicago, Illinois, USA, Free.
+https://www.papercall.io/chibrrcon2020
+
+DATACLOUD INDIA 2020, 05 Feb, 2020, Mumbai, Maharashtra, India, Free.
+https://www.datacloudindia.com/
+
+NIC 20 20 Vision Edition, 06 Feb, 2020, Oslo, , Norway, Free.
+https://www.papercall.io/nic2020
+
+PyCascades 2020, 08 Feb, 2020, Portland, Oregon, USA, Free.
+https://www.papercall.io/pycascades-2020
+
+BSidesSF 2020, 23 Feb, 2020, San Francisco, California, USA, Free.
+https://www.papercall.io/bsidessf-2020
+
+PyTennessee 2020, 07 Mar, 2020, Nashville, Tennessee, USA, Free.
+https://www.papercall.io/pytn-2020
+
+WeRockIT Developers Conference 2020, 26 Mar, 2020, Huntsville, Alabama, USA, Free.
+https://www.papercall.io/werockitconf2020
+
+Connectaha 2020, 27 Mar, 2020, Omaha, Nebraska, USA, Free.
+https://www.papercall.io/connectaha-2020
+
+DevOpsDays Vancouver 2020, 30 Mar, 2020, Vancover, British Columbia, Canada, Free.
+https://www.papercall.io/devopsdays-vancouver-2020
+
+Microsoft Ignite The Tour 2019 2020, 02 Apr, 2020, Mumbai, Maharashtra, India, Free.
+https://www.microsoft.com/en-us/ignite-the-tour/
+
+NET Fwdays, 11 Apr, 2020, Kyiv, , Ukraine, Free.
+https://fwdays.com/en/event/dotnet-fwdays-2020
+
+403 Forbidden, 27 Apr, 2020, , , Austin, Free.
+https://saucecon.com
+
+PHP Fwdays, 30 May, 2020, Kyiv, , Ukraine, Free.
+https://fwdays.com/en/event/php-fwdays-2020
+
+Devopscon, 08 Jun, 2020, , , Berlin, Free.
+https://devopscon.io/berlin/tickets-berlin/?go=ok
+
+Amazon Alexa VOICE, 05 Oct, 2020, Washington D.C., DC, USA, Free.
+https://www.voicesummit.ai/
+
+Voice Meetup: what3words edition with Speechmatics | Meetup, 28 January, 2020, London, , United Kingdom, Free.
+https://www.meetup.com/Messaging-Bots-London/events/267294132/
+
+Cambridge Alexa Developers Meetup, 12 February, 2020, Cambridge, , United Kingdom, Free.
+https://www.meetup.com/Cambridge-Alexa-Developers-Meetup/
+
+Amazon Alexa Paris, 16 February, 2020, Paris, , France, Free.
+https://www.meetup.com/Amazon-Alexa-Paris/
+
+Women in Data Science Pune Conference, 29 February, 2020, Pune, Maharashtra, India, Free.
+https://docs.google.com/forms/d/e/1FAIpQLSd9twzcqykFGawj8jJhjc_TsfEjpskLPpRzyadSTejwEpezcA/viewform
+
+MATLAB EXPO 2020 India, 21 April, 2020, Bangalore, Karnataka, India, Free.
+https://www.matlabexpo.com/in/2020/bangalore/registration.html
+
+MATLAB EXPO 2020 India, 23 April, 2020, Chennai, Tamilnadu, India, Free.
+https://www.matlabexpo.com/in/2020/chennai/registration.html
+
+MATLAB EXPO 2020 India, 28 April, 2020, Pune, Maharashtra, India, Free.
+https://www.matlabexpo.com/in/2020/pune/agenda.html
+
